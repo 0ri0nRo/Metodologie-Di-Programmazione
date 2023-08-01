@@ -47,7 +47,7 @@ Sono benvenuti i contributi a questo progetto. Se hai suggerimenti, correzioni o
 Per ulteriori informazioni sulla programmazione a oggetti in Java, puoi consultare le seguenti risorse:
 
 - Documentazione ufficiale di Java: [https://docs.oracle.com/javase/](https://docs.oracle.com/javase/)
-- Slide del professore
+- Slides del professore
 - Libro consigliato: ["Concetti di informatica e fondamenti di Java" di Cay S. Horstmann](https://amzn.eu/d/gqTVQUJ)
 
 ## Licenza
