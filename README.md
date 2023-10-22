@@ -48,7 +48,7 @@ Per ulteriori informazioni sulla programmazione a oggetti in Java, puoi consulta
 
 - Documentazione ufficiale di Java: [https://docs.oracle.com/javase/](https://docs.oracle.com/javase/)
 - Slides del professore
-- Libro consigliato: ["Concetti di informatica e fondamenti di Java" di Cay S. Horstmann](https://amzn.eu/d/gqTVQUJ)
+- Libro consigliato: [Concetti di informatica e fondamenti di Java" di Cay S. Horstmann](https://amzn.eu/d/gqTVQUJ)
 
 ## Licenza
 
